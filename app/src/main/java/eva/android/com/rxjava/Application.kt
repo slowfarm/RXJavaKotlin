@@ -1,6 +1,6 @@
 package eva.android.com.rxjava
 
-import eva.android.com.rxjava.Service.GithubService
+import eva.android.com.rxjava.http.GithubService
 import io.realm.Realm
 import io.realm.RealmConfiguration
 import retrofit2.Retrofit

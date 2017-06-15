@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RXJava.iml" filepath="$PROJECT_DIR$/RXJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RXJavaKotlin.iml" filepath="$PROJECT_DIR$/.idea/RXJavaKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

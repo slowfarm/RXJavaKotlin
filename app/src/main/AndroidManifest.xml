@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:name="eva.android.com.rxjava.Application">
-        <activity android:name="eva.android.com.rxjava.MainActivity">
+        <activity android:name="eva.android.com.rxjava.activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

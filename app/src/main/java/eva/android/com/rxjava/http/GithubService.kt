@@ -1,6 +1,6 @@
-package eva.android.com.rxjava.Service
+package eva.android.com.rxjava.http
 
-import eva.android.com.rxjava.Models.User
+import eva.android.com.rxjava.models.User
 import io.reactivex.Flowable
 import retrofit2.http.GET
 import retrofit2.http.Path

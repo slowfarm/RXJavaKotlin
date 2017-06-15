@@ -1,4 +1,4 @@
-package eva.android.com.rxjava.Models
+package eva.android.com.rxjava.models
 
 
 import com.google.gson.annotations.SerializedName
