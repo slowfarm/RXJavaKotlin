@@ -16,10 +16,6 @@ import io.realm.RealmResults
 
 class CardAdapter(private val mItems: RealmResults<User>) : RecyclerView.Adapter<CardAdapter.ViewHolder>() {
 
-    fun addItem() {
-        notifyItemInserted(mItems.size)
-    }
-
     override fun onCreateViewHolder(viewGroup: ViewGroup, i: Int): ViewHolder {
         val v = LayoutInflater.from(viewGroup.context).inflate(R.layout.recycler_item, viewGroup, false)
         return ViewHolder(v)

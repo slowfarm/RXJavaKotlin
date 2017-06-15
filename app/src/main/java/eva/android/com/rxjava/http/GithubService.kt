@@ -6,6 +6,5 @@ import retrofit2.http.GET
 import retrofit2.http.Path
 
 interface GithubService {
-    @GET("/users/{user}")
-    fun getUsers(@Path("user") user: String): Flowable<User>
+    @GET("/users/{user}") fun getUsers(@Path("user") user: String): Flowable<User>
 }
